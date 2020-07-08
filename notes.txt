@@ -1,0 +1,9 @@
+STEPS
+
+- Test API endpoints in Postman (Watch for fail rate)
+- Setup a react project
+- Come up with a quick decent UI design 
+- Structure components
+- Consume endpoints
+- Test app
+- Deploy
